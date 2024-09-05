@@ -28,10 +28,10 @@ When I'm not immersed in engineering, you'll find me pursuing my hobby of racing
 
 ### Wanna connect with me?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/github.png" height="20"/>&nbsp; [GitHub](https://github.com/Damika3002)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/facebook.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/Akalanka.Thushan.3002?mibextid=ZbWKwL)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/akakalanka_3002?igsh=MWh0a3lpamN5cndvcQ==)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/discord.png" height="20"/>&nbsp; [Discord](https://discord.com/users/849668157782360095)
+* <img src="https://github.com/Damika3002/Damika3002/blob/main/pngwing.com.png" height="30"/>&nbsp; [GitHub](https://github.com/Damika3002)
+* <img src="https://github.com/Damika3002/Damika3002/blob/main/pngwing.com%20(1).png" height="30"/>&nbsp; [Facebook](https://www.facebook.com/Akalanka.Thushan.3002?mibextid=ZbWKwL)
+* <img src="https://github.com/Damika3002/Damika3002/blob/main/pngegg.png" height="30"/>&nbsp; [Instagram](https://www.instagram.com/akakalanka_3002?igsh=MWh0a3lpamN5cndvcQ==)
+* <img src="https://github.com/Damika3002/Damika3002/blob/main/367017.png" height="30"/>&nbsp; [Discord](https://discord.com/users/849668157782360095)
 
 ### Wanna sponsor me?
 
