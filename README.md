@@ -1,5 +1,5 @@
 ## Well, hello there 👋
-
+---
 ### Who am I?
 
 👋 **Hi, I'm Damika Akalanka!**  
