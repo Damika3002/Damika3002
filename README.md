@@ -35,7 +35,7 @@ When I'm not immersed in engineering, you'll find me pursuing my hobby of racing
 
 ### Wanna sponsor me?
 
-<a href="https://www.buymeacoffee.com/Akalanka3002" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px"></a>
+<a href="http://buymeacoffee.com/Akalanka3002" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px"></a>
 
 ---
 
