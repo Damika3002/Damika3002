@@ -15,7 +15,7 @@ When I'm not immersed in engineering, you'll find me pursuing my hobby of racing
 </p>
 
 <p align="before" style="margin: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damika3002&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" style="border: 2px solid #ccc; border-radius: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damika3002&layout=compact&theme=tokyonight&v=1" alt="Top Languages" width="40%" style="border: 2px solid #ccc; border-radius: 20px;"/>
 </p>
 
 
