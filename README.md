@@ -11,7 +11,7 @@ When I'm not immersed in engineering, you'll find me pursuing my hobby of racing
 
 ### My stats
 <p align="before" style="margin: 27px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Damika3002&show_icons=true&theme=tokyonight" alt="GitHub stats" width="50%" style="border: 2px solid #ccc; border-radius: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Damika3002&show_icons=true&theme=tokyonight&v=1" alt="GitHub stats" width="50%" style="border: 2px solid #ccc; border-radius: 20px;"/>
 </p>
 
 <p align="before" style="margin: 20px;">
