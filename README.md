@@ -22,9 +22,9 @@ When I'm not immersed in engineering, you'll find me pursuing my hobby of racing
 
 ### Top Repositories
 
-* [Repository Name 1](https://github.com/Damika3002/repository1)
-* [Repository Name 2](https://github.com/Damika3002/repository2)
-* [Repository Name 3](https://github.com/Damika3002/repository3)
+* [ios-calculator](https://github.com/Damika3002/ios-calculator)
+<!--* [Repository Name 2](https://github.com/Damika3002/repository2)
+* [Repository Name 3](https://github.com/Damika3002/repository3)-->
 
 ### Wanna connect with me?
 
