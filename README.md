@@ -17,13 +17,13 @@ When I'm not immersed in engineering, you'll find me pursuing my hobby of **raci
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Damika3002&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
-    alt="GitHub stats" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damika3002&theme=tokyonight" 
+    alt="Profile details" 
     width="48%" 
     style="border: 2px solid #ccc; border-radius: 20px; margin: 10px;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damika3002&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damika3002&theme=tokyonight" 
     alt="Top Languages" 
     width="40%" 
     style="border: 2px solid #ccc; border-radius: 20px; margin: 10px;"
