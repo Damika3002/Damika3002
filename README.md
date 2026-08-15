@@ -29,15 +29,15 @@ When I'm not working on engineering projects, you'll find me pursuing my hobby o
 
 ## Featured Project
 
-<p align="center">
-  <a href="https://github.com/Damika3002/ios-calculator">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Damika3002&repo=ios-calculator&theme=tokyonight&show_owner=true"
-      alt="ios-calculator repository"
-      width="70%"
-    />
-  </a>
-</p>
+<div align="center">
+
+### 📱 [ios-calculator](https://github.com/Damika3002/ios-calculator)
+
+A simple calculator project designed to reproduce the clean iOS calculator experience.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-ios--calculator-7aa2f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Damika3002/ios-calculator)
+
+</div>
 
 ---
 
@@ -59,36 +59,4 @@ When I'm not working on engineering projects, you'll find me pursuing my hobby o
   <a href="https://discord.com/users/849668157782360095">
     <img src="https://github.com/Damika3002/Damika3002/blob/main/367017.png" alt="Discord" height="48">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Damika3002">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.facebook.com/Akalanka.Thushan.3002?mibextid=ZbWKwL">Facebook</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.instagram.com/akakalanka_3002?igsh=MWh0a3lpamN5cndvcQ==">Instagram</a>
-  &nbsp;•&nbsp;
-  <a href="https://discord.com/users/849668157782360095">Discord</a>
-</p>
-
----
-
-## Support My Work
-
-<p align="center">
-  <a href="https://buymeacoffee.com/Akalanka3002">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      alt="Buy Me a Coffee"
-      height="55"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github.com/Damika3002/Damika3002/blob/main/bmc_qr.png"
-    alt="Buy Me a Coffee QR code"
-    width="160"
-  >
 </p>
