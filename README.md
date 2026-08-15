@@ -20,12 +20,12 @@ When I'm not working on engineering projects, you'll find me pursuing my hobby o
   <img
     src="https://github-stats-extended.vercel.app/api?username=Damika3002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="Damika Akalanka's GitHub statistics"
-    height="185"
+    width="49%"
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Damika3002&layout=compact&theme=tokyonight&hide_border=true"
     alt="Damika Akalanka's most used languages"
-    height="185"
+    width="49%"
   />
 </p>
 
