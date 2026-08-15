@@ -25,7 +25,7 @@ When I'm not working on engineering projects, you'll find me pursuing my hobby o
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Damika3002&layout=compact&theme=tokyonight&hide_border=true"
     alt="Damika Akalanka's most used languages"
-    width="49%"
+    width="37%"
   />
 </p>
 
